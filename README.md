@@ -24,14 +24,15 @@ Click on this image to se how object detection works:
 
 <hr>
 
-### Getting started
+## Getting started
 <ul>
   <li>Put an image in test_images folder </li>
   <li> Then run the object_detection.ipynb file to get results </li>
  </ul>
  
  <hr>
-### Different models
+ 
+## Different models
 You can use different pre-trained model like for SSD,R-CNN, Faster-RCNN
 
 <p>But here i have used ssd </br>
@@ -39,7 +40,8 @@ You can use different pre-trained model like for SSD,R-CNN, Faster-RCNN
 Read more about <b>SSD</b> [here](https://arxiv.org/pdf/1512.02325.pdf)
   </p>
  <hr>
-## results
+ 
+## Results
 
 <ul>
 <li> Get Ground-Truth with labelImg which helps you to draw bounding box and save them as json files </li>
