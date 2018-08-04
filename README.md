@@ -13,9 +13,9 @@ Detect different objects in an image with TensorFlow
 frozen_inference_graph.zip
 </p>
 
-<hr>
-
 ### Do not forget to unzip the file
+
+<hr>
 
 
 Click on this image to se how object detection works:
